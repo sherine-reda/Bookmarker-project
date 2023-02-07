@@ -1,0 +1,37 @@
+*{
+  font-family: arial;
+}
+a{
+  text-decoration: none;
+}
+p,h3,h2{
+  font-weight: bold;
+}
+h3{
+  color: #AAA;
+    padding: 40px 20px ;
+    border-bottom: 1px solid #999;
+    font-size: 25px;
+}
+.bookform{
+  background-color: #EEE;
+    border: none;
+    text-align: center;
+    padding: 30px;
+    width: 80%;
+
+}
+footer{
+  padding: 20px;
+  border-top: 1px solid #999;
+  font-size: 14px;
+}
+footer p{
+  color: #AAA;
+}
+#displayBook{
+  padding: 30px;
+}
+.singlebook{ background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px 0;
+    padding: 20px; }
